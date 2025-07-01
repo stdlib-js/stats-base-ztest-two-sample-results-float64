@@ -39,7 +39,8 @@
   },
   "dependencies": {
     "@stdlib/stats-base-ztest-two-sample-results-factory": "github:stdlib-js/stats-base-ztest-two-sample-results-factory#main",
-    "@stdlib/utils-library-manifest": "^0.2.2"
+    "@stdlib/utils-library-manifest": "^0.2.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-buffer": "^0.2.2",
